@@ -6,6 +6,6 @@ Travis Build:
 
 Travis Link:
 
-[!(https://travis-ci.org/digital-crafting-habitat)]
+https://travis-ci.org/digital-crafting-habitat
 
 A Spring Boot Rest API to connect and get Values from
