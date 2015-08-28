@@ -4,9 +4,10 @@
 .mtj.tmp/
 
 # Package Files #
-
 *.war
 *.ear
+
+# Folder
 .gradle
 build
 data
